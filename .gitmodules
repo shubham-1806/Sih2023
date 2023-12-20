@@ -1,0 +1,9 @@
+[submodule "my-gpt"]
+	path = my-gpt
+	url = https://github.com/shubham-1806/my-gpt.git
+[submodule "my-gpt-backend"]
+	path = my-gpt-backend
+	url = https://github.com/aadarsh-ram/my-gpt-backend.git
+[submodule "MyGPT-app"]
+	path = MyGPT-app
+	url = https://github.com/S-Selvanayagam/MyGPT-app.git
